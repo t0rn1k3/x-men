@@ -1,0 +1,13 @@
+.search {
+    width: 15rem;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 3rem;
+    border: 0;
+    border: 1px solid #1d2158;
+    outline: none;
+    background-color: #dddddd;
+}
+.search:focus {
+    box-shadow: 0px 0px 5px #1d2158;
+}

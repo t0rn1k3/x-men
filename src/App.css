@@ -1,0 +1,14 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: 	#a30303;
+}
+
+h1 {
+    font-size: 5rem;
+    font-family: 'Alumni Sans Inline One', cursive;
+    background: -webkit-linear-gradient(#1d2158, 	#ffb400);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
