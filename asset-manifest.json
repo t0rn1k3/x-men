@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/x-men/static/css/main.a5ec979f.css",
+    "main.js": "/x-men/static/js/main.89f60e65.js",
+    "index.html": "/x-men/index.html",
+    "main.a5ec979f.css.map": "/x-men/static/css/main.a5ec979f.css.map",
+    "main.89f60e65.js.map": "/x-men/static/js/main.89f60e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ec979f.css",
+    "static/js/main.89f60e65.js"
+  ]
+}
